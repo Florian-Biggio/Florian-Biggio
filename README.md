@@ -10,13 +10,38 @@
 - **Téléphone:** 07 82 55 71 31
 - **Statut:** Travailleur handicapé (Sans besoin d'aménagement)
 
-## Réseau(x)
+## Réseaux
 
+- **GitHub:** [github.com/Florian-Biggio](https://github.com/Florian-Biggio)
 - **LinkedIn:** [linkedin.com/in/florianbiggio](https://linkedin.com/in/florianbiggio)
 
 ## Profil
 
 Data Scientist d'un an d'expérience, je souhaite aujourd'hui effectuer une légère reconversion vers l'infrastructure Data en tant que Data Engineer. Mon expérience passée me permet d'avoir une compréhension plus globale du bloc Data et ainsi d'être plus particulièrement efficace au poste de consolidation de la donnée pour faciliter son utilisation future.
+
+---
+
+## Diplômes et Formations
+
+### **Data Engineer (Bac +5)**
+**OpenClassrooms** | *2024 - 2025*
+- Diplôme "Expert en ingénierie et gestion des données" de niveau 7
+- **Projets réalisés:**
+  - *Mise en place d'un Pipeline de Données:* [employee-activity-etl-poc]([https://github.com/Florian-Biggio/Migration-MongoDB](https://github.com/Florian-Biggio/employee-activity-etl-poc)) `PostgreSQL` `Python` `Grafana` `Delta Lake` `Slack Bot` `API Google Map`
+  - *Migration de données médicale avec MongoDB:* [Migration-MongoDB](https://github.com/Florian-Biggio/Migration-MongoDB) `MongoDB` `Docker` `Python`
+  - *Prédiction de consommation d'énergie avec un modèle de ML Python:* [Predict-Energy-and-CO2-for-building](https://github.com/Florian-Biggio/Predict-Energy-and-CO2-for-building) `Machine Learning` `Docker` `Python`
+  - *Hébergement des données vers AWS:* [Consolidation-toward-S3](https://github.com/Florian-Biggio/Consolidation-toward-S3) `AWS` `MongoDB` `Docker` `Python`
+
+
+### **Certificat Data Asperger**
+**Grenoble École de Management** | *Janvier 2019 - Juin 2019*
+Formation en Data Analyse:
+- Python (bibliothèques pandas, Seaborn, sklearn)
+- Java
+- OPL
+
+### **Classe Préparatoire MPSI / MP**
+**Lycée Camille Jullian** | *Bordeaux* | Septembre 2014 - Juin 2016
 
 ---
 
@@ -37,28 +62,6 @@ Data Scientist d'un an d'expérience, je souhaite aujourd'hui effectuer une lég
 
 ---
 
-## Diplômes et Formations
-
-### **Data Engineer (Bac +5)**
-**OpenClassrooms** | *2024 - 2025*
-- Diplôme "Expert en ingénierie et gestion des données" de niveau 7
-- **Projets réalisés:**
-  - *Migration de données médicale avec MongoDB:* [Migration-MongoDB](https://github.com/Florian-Biggio/Migration-MongoDB) `MongoDB` `Docker` `Python`
-  - *Prédiction de consommation d'énergie avec un modèle de ML Python:* [Predict-Energy-and-CO2-for-building](https://github.com/Florian-Biggio/Predict-Energy-and-CO2-for-building) `Machine Learning` `Docker` `Python`
-  - *Hébergement des données vers AWS:* [Consolidation-toward-S3](https://github.com/Florian-Biggio/Consolidation-toward-S3) `AWS` `MongoDB` `Docker` `Python`
-
-
-### **Certificat Data Asperger**
-**Grenoble École de Management** | *Janvier 2019 - Juin 2019*
-Formation en Data Analyse:
-- Python (bibliothèques pandas, Seaborn, sklearn)
-- Java
-- OPL
-
-### **Classe Préparatoire MPSI / MP**
-**Lycée Camille Jullian** | *Bordeaux* | Septembre 2014 - Juin 2016
-
----
 
 ## Compétences Techniques
 
