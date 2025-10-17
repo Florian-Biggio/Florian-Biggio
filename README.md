@@ -10,9 +10,8 @@
 - **Téléphone:** 07 82 55 71 31
 - **Statut:** Travailleur handicapé (Sans besoin d'aménagement)
 
-## Réseaux
+## Réseau(x)
 
-- **GitHub:** [github.com/Florian-Biggio](https://github.com/Florian-Biggio)
 - **LinkedIn:** [linkedin.com/in/florianbiggio](https://linkedin.com/in/florianbiggio)
 
 ## Profil
