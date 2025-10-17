@@ -27,7 +27,7 @@ Data Scientist d'un an d'expérience, je souhaite aujourd'hui effectuer une lég
 **OpenClassrooms** | *2024 - 2025*
 - Diplôme "Expert en ingénierie et gestion des données" de niveau 7
 - **Projets réalisés:**
-  - *Mise en place d'un Pipeline de Données:* [employee-activity-etl-poc]([https://github.com/Florian-Biggio/Migration-MongoDB](https://github.com/Florian-Biggio/employee-activity-etl-poc)) `PostgreSQL` `Python` `Grafana` `Delta Lake` `Slack Bot` `API Google Map`
+  - *Mise en place d'un Pipeline de Données:* [employee-activity-etl-poc](https://github.com/Florian-Biggio/employee-activity-etl-poc) `PostgreSQL` `Python` `Grafana` `Delta Lake` `Slack Bot` `API Google Map`
   - *Migration de données médicale avec MongoDB:* [Migration-MongoDB](https://github.com/Florian-Biggio/Migration-MongoDB) `MongoDB` `Docker` `Python`
   - *Prédiction de consommation d'énergie avec un modèle de ML Python:* [Predict-Energy-and-CO2-for-building](https://github.com/Florian-Biggio/Predict-Energy-and-CO2-for-building) `Machine Learning` `Docker` `Python`
   - *Hébergement des données vers AWS:* [Consolidation-toward-S3](https://github.com/Florian-Biggio/Consolidation-toward-S3) `AWS` `MongoDB` `Docker` `Python`
