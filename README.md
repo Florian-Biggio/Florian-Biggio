@@ -8,7 +8,6 @@
 - **Email:** florian.biggio.dev@gmail.com
 - **Localisation:** Bordeaux (33000) - Mobile sur toute la France
 - **Téléphone:** 07 82 55 71 31
-- **Statut:** Travailleur handicapé (Sans besoin d'aménagement)
 
 ## Réseau(x)
 
@@ -27,6 +26,7 @@ Data Scientist d'un an d'expérience, je souhaite aujourd'hui effectuer une lég
 - Diplôme "Expert en ingénierie et gestion des données" de niveau 7
 - **Projets réalisés:**
   - *Mise en place d'un Pipeline de Données:* [employee-activity-etl-poc](https://github.com/Florian-Biggio/employee-activity-etl-poc) `PostgreSQL` `Python` `Grafana` `Delta Lake` `Slack Bot` `API Google Map`
+  - *Redpanda ETL Pipeline:* [Redpanda-and-Spark](https://github.com/Florian-Biggio/Redpanda-and-Spark) `Redpanda` `Spark` `Python`  `Delta Lake` `Docker`
   - *Migration de données médicale avec MongoDB:* [Migration-MongoDB](https://github.com/Florian-Biggio/Migration-MongoDB) `MongoDB` `Docker` `Python`
   - *Prédiction de consommation d'énergie avec un modèle de ML Python:* [Predict-Energy-and-CO2-for-building](https://github.com/Florian-Biggio/Predict-Energy-and-CO2-for-building) `Machine Learning` `Docker` `Python`
   - *Hébergement des données vers AWS:* [Consolidation-toward-S3](https://github.com/Florian-Biggio/Consolidation-toward-S3) `AWS` `MongoDB` `Docker` `Python`
